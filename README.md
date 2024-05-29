@@ -5,4 +5,4 @@ This Ressource Pack changes the way kick messages in Minecraft Bedrock Edition l
 It works by removing the message 'You have been kicked' or 'You have been kicked for:' to allow a custom message.
 To import it to Minecraft rename the file from '.zip' to'.mcpack' !
 
-Feel free to use this aslong as you give credit! <3
+Feel free to use! ( <3 if u give credits )
