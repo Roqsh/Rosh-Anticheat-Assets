@@ -2,17 +2,17 @@
     "format_version": 2,
     "header": {
         "name": "§r§uRosh Assets§r",
-        "description": "\n§8v0.01",
-        "uuid": "e50802c6-4d2c-47ee-8af6-aa6b9bc321bc",
-        "version": [0, 0, 1],
+        "description": "\n§8v0.02",
+        "uuid": "9e36a1e1-d9e9-494d-ab6a-2f221c788f1a",
+        "version": [0, 0, 2],
         "min_engine_version": [ 1, 20, 0 ]
     },
     "modules": [
         {
             "description": "Better kick messages",
             "type": "resources",
-            "uuid": "717bb76b-61e5-48cd-bf79-67e4b2bfe7d2",
-            "version": [0, 0, 1]
+            "uuid": "463bb6dc-f3a3-463c-a0a2-8de87cbb3de9",
+            "version": [0, 0, 2]
         }
     ]
 }
