@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§r§uRosh Assets§r",
+        "description": "\n§8v0.02",
+        "uuid": "9e36a1e1-d9e9-494d-ab6a-2f221c788f1a",
+        "version": [0, 0, 2],
+        "min_engine_version": [ 1, 20, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Better kick messages",
+            "type": "resources",
+            "uuid": "463bb6dc-f3a3-463c-a0a2-8de87cbb3de9",
+            "version": [0, 0, 2]
+        }
+    ]
+}
